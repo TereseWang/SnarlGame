@@ -1,0 +1,7 @@
+{"traversable": true, "object": "exit", "type": "room", "reachable": [[0, 3], [11, 12]]}
+{"traversable": true, "object": null, "type": "room", "reachable": [[15, 8], [11, 12], [15, 13]]}
+{"traversable": true, "object": "key", "type": "room", "reachable": [[5, 7], [10, 2]]}
+{"traversable": true, "object": null, "type": "hallway", "reachable": [[15, 13], [15, 13]]}
+{"traversable": false, "object": null, "type": "void", "reachable": []}
+{"traversable": true, "object": null, "type": "room", "reachable": [[15, 8], [15, 8], [11, 12], [15, 13]]}
+{"traversable": false, "object": null, "type": "room", "reachable": [[5, 7], [15, 13]]}

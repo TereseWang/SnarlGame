@@ -1,0 +1,5 @@
+{"traversable": true, "object": null, "type": "room", "reachable": [[4, 14], [10, 5]]}
+{"traversable": true, "object": null, "type": "room", "reachable": [[3, 1]]}
+{"traversable": false, "object": null, "type": "void", "reachable": []}
+{"traversable": true, "object": "key", "type": "room", "reachable": [[4, 14], [10, 5]]}
+{"traversable": false, "object": null, "type": "room", "reachable": [[4, 14], [10, 5]]}
